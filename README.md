@@ -14,3 +14,5 @@ documentReady(function () {
     /* some initializations */
 });
 ```
+
+It's intended to be a part of a large application which is sensitive about script size and doesn't want to include jQuery or Zepto in it.
